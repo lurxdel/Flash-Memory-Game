@@ -16,10 +16,10 @@ To run the game locally, do the following.
 
 * PyGame Library: This game uses `Pygame library.` You can install it using pip (Commant Prompt):
 
---Copy the following code--
+-- Copy the following code --
 
-- `pip install pygame`
-
-- `pip install requests`
-
-- `pip install pillow`
+```
+pip install pygame
+pip install requests
+pip install pillow
+```
