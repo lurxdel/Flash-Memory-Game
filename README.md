@@ -2,7 +2,7 @@
 
 A simple Python game colorful matching cards featuring fruits with a timer
 
-![logo](https://github.com/user-attachments/assets/8d7a9c44-0d78-4e44-83a7-137f72b2ebec)
+![logo](https://github.com/user-attachments/assets/799f8bfe-406c-4ac9-a16c-d9430b037556)
 
 ![main menu](https://github.com/user-attachments/assets/6721818a-c682-4a77-9df7-9c444725a334)
 
