@@ -1,6 +1,6 @@
 # Flash Memory Game
 
-A simple Python game colorful matching cards featuring fruits with a timer
+A simple Python game colorful matching tiles featuring fruits with a timer.
 
 ![logo](https://github.com/user-attachments/assets/799f8bfe-406c-4ac9-a16c-d9430b037556)
 
@@ -39,3 +39,6 @@ pip install pygame
 pip install requests
 pip install pillow
 ```
+
+## Inspired By
+https://www.geeksforgeeks.org/flipping-tiles-memory-game-using-python3/
