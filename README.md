@@ -21,7 +21,7 @@ A simple Python game colorful matching tiles featuring fruits with a timer.
 * Losing    : once the user did not complete matching the tiles then the timer runs out.
 
 
-## Guide
+## Guide To Run
 
 To run the game locally, do the following.
 * Install Python: The game is built using Python and requires `version 3.7 or higher.` You can get it from here.
@@ -40,5 +40,5 @@ pip install requests
 pip install pillow
 ```
 
-## Inspired By
+## Game Inspired By
 https://www.geeksforgeeks.org/flipping-tiles-memory-game-using-python3/
