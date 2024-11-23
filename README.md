@@ -4,6 +4,15 @@ A simple Python game colorful matching cards featuring fruits with a timer
 
 ![logo](https://github.com/user-attachments/assets/8d7a9c44-0d78-4e44-83a7-137f72b2ebec)
 
+![main menu](https://github.com/user-attachments/assets/6721818a-c682-4a77-9df7-9c444725a334)
+
+![levels](https://github.com/user-attachments/assets/95b050bb-22fe-4a14-be39-71f6f1707bee)
+
+## Levels
+
+- Easy Level: display 4 tiles with a 20 seconds timer.
+- Medium Level: display 8 tiles with a 40 seconds timer.
+- Hard Level: display 16 tiles with a 60 seconds timer.
 
 ## Guide
 
