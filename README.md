@@ -10,16 +10,16 @@ A simple Python game colorful matching cards featuring fruits with a timer
 
 ## Game Level Display
 
-### - Easy Level: 
+### Easy Level: 
 display 4 tiles with a 20 seconds timer.
-### - Medium Level: 
+### Medium Level: 
 display 8 tiles with a 40 seconds timer.
-### - Hard Level: 
+### Hard Level: 
 display 16 tiles with a 60 seconds timer.
+
 
 ### Winning:
 once the user completes matching the tiles before the timer runs out
-
 ### Losing:
 once the user did not complete matching the tiles then the timer runs out, display the losing message (then return step 2).
 
