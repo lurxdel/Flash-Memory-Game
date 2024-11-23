@@ -10,15 +10,15 @@ A simple Python game colorful matching tiles featuring fruits with a timer.
 
 ## Game Level Display
 
-* Easy Level    : display 4 tiles with a 20 seconds timer.
+* Easy Level : display 4 tiles with a 20 seconds timer.
   
-* Medium Level  : display 8 tiles with a 40 seconds timer.
+* Medium Level : display 8 tiles with a 40 seconds timer.
   
-* Hard Level    : display 16 tiles with a 60 seconds timer.
+* Hard Level : display 16 tiles with a 60 seconds timer.
 
-* Winning   : once the gamer completes matching the tiles before the timer runs out.
+* Winning : once the gamer completes matching the tiles before the timer runs out.
   
-* Losing    : once the gamer did not complete matching the tiles then the timer runs out.
+* Losing : once the gamer did not complete matching the tiles then the timer runs out.
 
 
 ## Guide To Run
@@ -32,7 +32,7 @@ To run the game locally, do the following.
 
 * PyGame Library: This game uses `Pygame library.` You can install it using pip (Commant Prompt):
 
---  Copy the following code  --
+### Copy the following code
 
 ```
 pip install pygame
