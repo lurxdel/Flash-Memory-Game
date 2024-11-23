@@ -52,4 +52,5 @@ If you like my work or find it helpful, you can support me by:
 
 ## Disclaimer  
 I do not own the images, names, or any other content used in this project.  
+
 All trademarks, service marks, trade names, and other intellectual property rights belong to their respective owners.  
