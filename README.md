@@ -2,6 +2,9 @@
 
 A simple Python game colorful matching cards featuring fruits with a timer
 
+![logo](https://github.com/user-attachments/assets/8d7a9c44-0d78-4e44-83a7-137f72b2ebec)
+
+
 ## Guide
 
 To run the game, do the following.
