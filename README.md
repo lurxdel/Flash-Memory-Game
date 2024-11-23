@@ -19,9 +19,9 @@ display 16 tiles with a 60 seconds timer.
 
 
 ### Winning:
-once the user completes matching the tiles before the timer runs out
+once the user completes matching the tiles before the timer runs out.
 ### Losing:
-once the user did not complete matching the tiles then the timer runs out, display the losing message (then return step 2).
+once the user did not complete matching the tiles then the timer runs out.
 
 
 ## Guide
