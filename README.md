@@ -1,4 +1,4 @@
-# Flash-Memory-Game
+# Flash Memory Game
 
 A simple Python game colorful matching cards featuring fruits with a timer
 
@@ -16,7 +16,7 @@ To run the game locally, do the following.
 
 * PyGame Library: This game uses `Pygame library.` You can install it using pip (Commant Prompt):
 
--- Copy the following code --
+--  Copy the following code  --
 
 ```
 pip install pygame
