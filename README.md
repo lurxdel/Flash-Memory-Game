@@ -16,9 +16,9 @@ A simple Python game colorful matching tiles featuring fruits with a timer.
   
 * Hard Level    : display 16 tiles with a 60 seconds timer.
 
-* Winning   : once the user completes matching the tiles before the timer runs out.
+* Winning   : once the gamer completes matching the tiles before the timer runs out.
   
-* Losing    : once the user did not complete matching the tiles then the timer runs out.
+* Losing    : once the gamer did not complete matching the tiles then the timer runs out.
 
 
 ## Guide To Run
