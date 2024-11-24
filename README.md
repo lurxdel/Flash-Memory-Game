@@ -25,13 +25,13 @@ A **simple Python memory game** featuring colorful, fruit-themed matching tiles 
 ## Guide To Run
 To run the game locally, do the following.
 
-- **Install Python:** The game is built using Python and requires version 3.7 or higher.
+- **Install Python:** The game is built using Python and requires `version 3.7 or higher.`
   - You can get it from here. [Python.org](https://www.python.org/)
 
-- **Install PyGame:** The game uses a set of Python module designed for video games.
+- **Install PyGame:** The game uses a set of `Python module` designed for video games.
   - You can get it from here. [Pygame.org](https://www.pygame.org/news)
 
-- **PyGame Library:** This game uses Pygame library. You can install it using pip (Commant Prompt):
+- **PyGame Library:** This game uses `Pygame library.` You can install it using pip (Commant Prompt):
 
 ### Copy the following code
 
