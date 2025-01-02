@@ -24,22 +24,22 @@ A **simple Python memory game** featuring colorful, fruit-themed matching tiles 
 
 ## Guide To Run
 To run the game locally, do the following.
+> - **Clone this repository** or download it as a **ZIP file.**
+> - Install the following necessary **Python packages.**
 
-- **Install Python:** The game is built using Python and requires `version 3.7 or higher.`
-  - You can get it from here. [Python.org](https://www.python.org/)
+1. **Install Python:** The game is built using Python and requires `version 3.7 or higher.`
+   - You can get it from here. [Python.org](https://www.python.org/)
 
-- **Install PyGame:** The game uses a set of `Python module` designed for video games.
-  - You can get it from here. [Pygame.org](https://www.pygame.org/news)
+2. **Install PyGame:** The game uses a set of `Python module` designed for video games.
+   - You can get it from here. [Pygame.org](https://www.pygame.org/news)
 
-- **PyGame Library:** This game uses `Pygame library.` You can install it using pip (Commant Prompt):
-
-### Copy the following code
-
-```
-pip install pygame
-pip install requests
-pip install pillow
-```
+3. **PyGame Library:** This game uses `Pygame library.` You can install it using pip (Commant Prompt).
+   - Copy the following code:
+    ```bash
+    pip install pygame
+    pip install requests
+    pip install pillow
+    ```
 
 ## Game Inspired By 
 [Create a Memory Puzzle Game Using PyGame](https://www.geeksforgeeks.org/create-a-memory-puzzle-game-using-pygame/)  
