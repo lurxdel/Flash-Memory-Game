@@ -40,8 +40,8 @@ To run the game locally, do the following.
     pip install requests
     pip install pillow
     ```
-## Documentation on the Project Journey
-[Document](https://drive.google.com/file/d/1hYLNnfwIKvfKTmH_8B73OY4Y4Sog176w/view?usp=sharing)
+## Documentation
+[Full Documentation on the Project Journey](https://drive.google.com/file/d/1hYLNnfwIKvfKTmH_8B73OY4Y4Sog176w/view?usp=sharing)
 
 ## Game Inspired By 
 [Create a Memory Puzzle Game Using PyGame](https://www.geeksforgeeks.org/create-a-memory-puzzle-game-using-pygame/)  
